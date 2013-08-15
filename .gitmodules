@@ -1,0 +1,3 @@
+[submodule "robot"]
+	path = /
+	url = https://github.com/xuechong87/MoegirlWeixinRobot.git
